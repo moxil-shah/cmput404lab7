@@ -1,0 +1,25 @@
+0.
+
+1. Flask has API support, django does not. Django offers
+dynamic webpages and flask does not.
+
+2.REST = representational state transfer. RESTful means that something
+is designed according to REST principles and supports REST interactions.
+
+3. CRUD = create read update delete. 
+C is like the POST method
+R is like the GET method
+U is like the PUT method
+D is like the DELETE method
+
+4. 1xx = request was received, continuing process
+2xx = request was successfully received, understood, and accepted
+3xx = more action required to complete request
+4xx = not good syntax/request faulty
+5xx = server error
+
+5. XSS attack is when ill-intent scripts are injected into good websites.
+If a site trusts everything it receives, then XSS attack wins.
+
+6. CORS = Cross-Origin Resource Sharing.
+CORS protection must be implemented when I am accessing info on a different domain
